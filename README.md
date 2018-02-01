@@ -1,2 +1,4 @@
 # Assets
-The assets for game
+The public assets for game development
+Pull the whole file when needed
+
